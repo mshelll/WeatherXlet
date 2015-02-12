@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/com.aicas.jamaica.eclipse.microlauncher.vm.JamaicaVMType/JamaicaME_Emulator"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/MAbraham/Downloads/kxml-2.3.0.kf3.jar/kxml-2.3.0.kf3.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
